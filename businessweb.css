@@ -96,12 +96,12 @@ nav {
     justify-content: center;
     gap: 2.5rem;
     max-width: 68.75rem;
-    margin: auto;
+    margin:auto;
   }
 
   .hero img {
-    height: 500px;
-    width: 500px;
+    height: 250px;
+    width: 250px;
   }
   
   .bio {
