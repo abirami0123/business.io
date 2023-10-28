@@ -96,7 +96,9 @@ nav {
     justify-content: center;
     gap: 2.5rem;
     max-width: 68.75rem;
-    margin:20%;
+    margin-left:50%;
+    margin-top:auto;
+    margin-buttom:auto;
   }
 
   .hero img {
